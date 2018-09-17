@@ -1,8 +1,7 @@
-# flutter_ui_login
+# Flutter Minimal UI
 
-A new Flutter project.
+Login and Signup screens.
 
-## Getting Started
+## Design Credit - https://dribbble.com/shots/5239966-Daily-UI-001
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## How do I make this - https://youtu.be/PJU6HFWOM6I
